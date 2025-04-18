@@ -5,8 +5,8 @@ require_relative "lib/formtn_cms/version"
 Gem::Specification.new do |spec|
   spec.name = "formtn_cms"
   spec.version = FormtnCms::VERSION
-  spec.authors = ["Stefan Große"]
-  spec.email = ["stefan.grosse@evlka.de"]
+  spec.authors = ["Stefan Grosse"]
+  spec.email = ["stefan@grosse.io"]
 
   spec.summary = "TODO: Write a short summary, because RubyGems requires one."
   spec.description = "TODO: Write a longer description or delete this line."
